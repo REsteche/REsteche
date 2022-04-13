@@ -14,10 +14,18 @@
 
 ![Python](https://img.shields.io/badge/-Python-4B8BBE?&logo=Python&logoColor=fff) 
 ![C++](https://img.shields.io/badge/-C++-00599C?&logo=c%2b%2b) 
-![C](https://img.shields.io/badge/-C-888?&logo=C&logoColor=fff) 
+![C](https://img.shields.io/badge/-C-888?&logo=C&logoColor=fff)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=Plastic&logo=latex&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-f0db4f?&logo=JavaScript&logoColor=fff) 
 ![Mathematica](https://img.shields.io/badge/-Mathematica-DD1100?&logo=Mathematica&Color=DD1100) 
 ![HTML](https://img.shields.io/badge/-HTML-302683?&logo=HTML&logoColor=302683)
+
+### IDE's/Editors
+
+![Spyder](https://img.shields.io/badge/Spyder-838485?style=Plastic&logo=spyder%20ide&logoColor=maroon)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=Plastic&logo=jupyter&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=Plastic&logo=visual-studio&logoColor=white)
+![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=Plastic&logo=sublime-text&logoColor=important)
 
 ### Stats
 <a href="https://github.com/REsteche">
