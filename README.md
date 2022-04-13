@@ -17,8 +17,9 @@
 ![C](https://img.shields.io/badge/-C-888?&logo=C&logoColor=fff)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=Plastic&logo=latex&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-f0db4f?&logo=JavaScript&logoColor=fff) 
+![Markdown](https://img.shields.io/badge/Markdown-000000?Plastic&logo=markdown&logoColor=white)
 ![Mathematica](https://img.shields.io/badge/-Mathematica-DD1100?&logo=Mathematica&Color=DD1100) 
-![HTML](https://img.shields.io/badge/-HTML-302683?&logo=HTML&logoColor=302683)
+
 
 ### IDE's/Editors
 
