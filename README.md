@@ -12,7 +12,12 @@
 
 ### Languages
 
-![Python](https://img.shields.io/badge/-Python-4B8BBE?&logo=Python&logoColor=fff) ![C++](https://img.shields.io/badge/-C++-00599C?&logo=c%2b%2b) ![C](https://img.shields.io/badge/-C-888?&logo=C&logoColor=fff) ![JavaScript](https://img.shields.io/badge/-JavaScript-f0db4f?&logo=JavaScript&logoColor=fff) ![Mathematica](https://img.shields.io/badge/-Mathematica-DD1100?&logo=Mathematica&logo&Color=DD1100) ![HTML](https://img.shields.io/badge/-HTML-302683?&logo=HTML&logoColor=302683)
+![Python](https://img.shields.io/badge/-Python-4B8BBE?&logo=Python&logoColor=fff) 
+![C++](https://img.shields.io/badge/-C++-00599C?&logo=c%2b%2b) 
+![C](https://img.shields.io/badge/-C-888?&logo=C&logoColor=fff) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-f0db4f?&logo=JavaScript&logoColor=fff) 
+![Mathematica](https://img.shields.io/badge/-Mathematica-DD1100?&logo=Mathematica&Color=DD1100) 
+![HTML](https://img.shields.io/badge/-HTML-302683?&logo=HTML&logoColor=302683)
 
 ### Stats
 <a href="https://github.com/REsteche">
