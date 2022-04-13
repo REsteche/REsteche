@@ -1,7 +1,7 @@
 ### Hi there, 👋
 
-#### My name is Ruben Esteche, I'm a bachelor in physics and currently doing a M.Sc in foundations of quantum mechanics. I am also a programming enthusiast, always interested in learning and sharing more. 
-
+### My name is Ruben Esteche, I'm a bachelor in physics and currently doing a M.Sc in foundations of quantum mechanics. I am also a programming enthusiast, always interested in learning and sharing more. 
+---
 <!--
 **REsteche/REsteche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 📫 How to reach me: ...
@@ -9,7 +9,7 @@
  - 🔭 I’m currently working on temporal aspects -from a new arrival time distribution to tunneling time numerical modeling- and causality relationships in events in quantum mechanics
  - 👯 I’m looking to collaborate with other researchers, and expand my networking and knowledge, as well as learn as much as possible 
 
-
+---
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-4B8BBE?&logo=Python&logoColor=fff) 
@@ -26,7 +26,7 @@
 <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=REsteche&hide=html,java&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=dracula" />
 </a>
 
-#### Find me
+## Find me
 <p>
   <a href="ruben.esteche@ufpe.com">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-%23BB001B.svg?&style=for-the-badge&logo=Gmail&logoColor=white" />
