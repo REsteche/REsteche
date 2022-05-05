@@ -8,6 +8,7 @@
 -->
  - 🔭 I’m currently working on temporal aspects, from a new arrival time distribution to tunneling time numerical modeling. I have also experience in causality relationships in events in quantum mechanics, quantum computing and theory of information.
  - 👯 I’m always looking to collaborate with other researchers, and expand my networking and knowledge, as well as learn as much as possible 
+ - 🔍 I'm dedicating most of my free time to learning data science and machine learning as you can see by exploring my latest repositories
 
 ---
 ### Languages
