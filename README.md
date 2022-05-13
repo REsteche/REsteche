@@ -17,9 +17,10 @@
 ![C](https://img.shields.io/badge/-C-888?&logo=C&logoColor=fff)
 ![C++](https://img.shields.io/badge/-C++-00599C?&logo=c%2b%2b) 
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=Plastic&logo=latex&logoColor=white)
+![Wolfram](https://img.shields.io/badge/-Wolfram_Language-DD1100?&logo=Wolfram-Language&Color=DD1100)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?Plastic&logo=markdown&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-f0db4f?&logo=JavaScript&logoColor=fff) 
-![Mathematica](https://img.shields.io/badge/-Mathematica-DD1100?&logo=Mathematica&Color=DD1100) 
+ 
 
 
 ### IDE's/Editors
@@ -27,8 +28,10 @@
 ![Spyder](https://img.shields.io/badge/Spyder-838485?style=Plastic&logo=spyder%20ide&logoColor=maroon)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=Plastic&logo=jupyter&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=Plastic&logo=visual-studio&logoColor=white)
+![Mathematica](https://img.shields.io/badge/-Wolfram_Mathematica-DD1100?&logo=Wolfram-Mathematica&Color=DD1100)
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=Plastic&logo=sublime-text&logoColor=important)
 ![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=Plastic&logo=Overleaf&logoColor=white)
+
 
 ### Stats
 
