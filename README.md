@@ -16,8 +16,8 @@
 ![Python](https://img.shields.io/badge/-Python-4B8BBE?&logo=Python&logoColor=fff) 
 ![C](https://img.shields.io/badge/-C-888?&logo=C&logoColor=fff)
 ![C++](https://img.shields.io/badge/-C++-00599C?&logo=c%2b%2b) 
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=Plastic&logo=latex&logoColor=white)
 ![Wolfram](https://img.shields.io/badge/-Wolfram_Language-DD1100?&logo=Wolfram-Language&Color=DD1100)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=Plastic&logo=latex&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?Plastic&logo=markdown&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-f0db4f?&logo=JavaScript&logoColor=fff) 
  
