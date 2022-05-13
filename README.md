@@ -29,7 +29,7 @@
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=Plastic&logo=jupyter&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=Plastic&logo=visual-studio&logoColor=white)
 ![Mathematica](https://img.shields.io/badge/-Wolfram_Mathematica-DD1100?&logo=Wolfram-Mathematica&Color=DD1100)
-![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=Plastic&logo=sublime-text&logoColor=important)
+![CCompiler](https://img.shields.io/badge/Google_Colab-%23575757.svg?style=Plastic&logo=Google-Colab&logoColor=#F9AB00)
 ![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=Plastic&logo=Overleaf&logoColor=white)
 
 
