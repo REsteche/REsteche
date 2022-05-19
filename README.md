@@ -26,6 +26,7 @@
 
 ![OpenGL](https://img.shields.io/badge/-OpenGL-5586A4?&logo=OpenGL&logoColor=white)
 ![QuadPy](https://img.shields.io/badge/-quadpy-informational?&logo=PyPI&logoColor=white)
+![QuTip](https://img.shields.io/badge/-QuTip-8CAAE6?&logo=SciPy&logoColor=white)
 ![Pytorch](https://img.shields.io/badge/-Pytorch-EE4C2C?&logo=Pytorch&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?&logo=FastAPI&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?&logo=TensorFlow&logoColor=white)
