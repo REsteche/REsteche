@@ -1,6 +1,6 @@
 ### Hi there, 👋
 
-### My name is Ruben Esteche, I'm a bachelor in physics and currently doing a M.Sc in foundations of quantum mechanics. I am also a programming enthusiast, always interested in learning and sharing more. 
+### My name is Ruben Esteche, I'm a bachelor in physics and currently doing a M.Sc in foundations of quantum mechanics. I am also a Data Scientist and Machine Learning researcher at DELL Lead and a programming enthusiast who is always interested in learning and sharing more. 
 ---
 <!--
 **REsteche/REsteche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -8,7 +8,7 @@
 -->
  - 🔭 I’m currently working with time in quantum mechanics; from a new arrival time distribution to tunneling time numerical modeling. I have also experience in causality relationships of events in quantum mechanics, and theory of information.
  - 👯 I’m always looking to collaborate with other researchers, and expand my networking and knowledge, as well as learn as much as possible 
- - 🔍 I'm dedicating most of my free time to learning data science and machine learning as you can see by exploring my latest repositories
+ - 🔍 I'm dedicating most of my free time to learning data science and machine learning as you can see by exploring my latest repositories, and Im working on DELL Lead mining textual data and creating data visualizations.
 
 ---
 ### Languages
