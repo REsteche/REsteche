@@ -29,7 +29,7 @@
 ![QuTip](https://img.shields.io/badge/-QuTip-8CAAE6?&logo=SciPy&logoColor=white)
 ![Pytorch](https://img.shields.io/badge/-Pytorch-EE4C2C?&logo=Pytorch&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?&logo=FastAPI&logoColor=white)
-<!--![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?&logo=TensorFlow&logoColor=white)-->
+![Scikit-learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?&logo=scikit-learn&logoColor=white)
 
 
 ### IDE's/Editors
