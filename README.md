@@ -58,7 +58,7 @@
 
 ## Find me
 <p>
-  <a href="ruben.esteche@ufpe.com">
+  <a href="mailto:ruben.esteche@ufpe.com">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-%23BB001B.svg?&style=for-the-badge&logo=Gmail&logoColor=white" />
   </a>
   <a href="https://resteche.github.io/">
