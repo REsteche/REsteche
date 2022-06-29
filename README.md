@@ -18,7 +18,6 @@
 ![C++](https://img.shields.io/badge/-C++-00599C?&logo=c%2b%2b) 
 ![Wolfram](https://img.shields.io/badge/-Wolfram_Language-DD1100?&logo=Wolfram-Language&Color=DD1100)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=Plastic&logo=latex&logoColor=white)
-![R](https://img.shields.io/badge/-R-276DC3?&logo=R&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-f0db4f?&logo=JavaScript&logoColor=fff) 
  
 
