@@ -4,7 +4,7 @@
 ---
 
  - 🔭 I’m currently working with time in quantum mechanics; from a new arrival time distribution to tunneling time numerical modeling. I have also experience in causality relationships of events in quantum mechanics, and theory of information.
- - 🔎 I’m always looking to collaborate with other researchers, and expand my networking and knowledge, as well as learn as much as possible 
+ - 🔎 I’m always looking to collaborate with other researchers and expand my networking, as well as learn as much as possible on various topics.
  - 🖥️ I have a part time job with Data Science and Natural Language Processing models, from its research base to its direct implementation in functional APIs.
  
 
