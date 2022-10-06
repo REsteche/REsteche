@@ -16,8 +16,7 @@
 ![C++](https://img.shields.io/badge/-C++-00599C?&logo=c%2b%2b) 
 ![Wolfram](https://img.shields.io/badge/-Wolfram_Language-DD1100?&logo=Wolfram-Language&Color=DD1100)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=Plastic&logo=latex&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-f0db4f?&logo=JavaScript&logoColor=fff) 
- 
+![JavaScript](https://img.shields.io/badge/-JavaScript-f0db4f?&logo=JavaScript&logoColor=fff)  
 
 ### Toolboxes and Libraries
 
@@ -28,6 +27,10 @@
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?&logo=FastAPI&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?&logo=scikit-learn&logoColor=white)
 ![Pytorch](https://img.shields.io/badge/-Pytorch-EE4C2C?&logo=Pytorch&logoColor=white)
+
+
+![Docker](https://img.shields.io/badge/-Docker-2496ED?&logo=Docker&logoColor=fff)
+![Jenkins](https://img.shields.io/badge/-jenkins-D24939?&logo=jenkins&logoColor=fff) 
 
 ### IDE's/Editors
 
