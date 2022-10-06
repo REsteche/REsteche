@@ -26,9 +26,9 @@
 ![SpaCy](https://img.shields.io/badge/-spaCy-09A3D5?&logo=spaCy&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?&logo=FastAPI&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?&logo=scikit-learn&logoColor=white)
+
+
 ![Pytorch](https://img.shields.io/badge/-Pytorch-EE4C2C?&logo=Pytorch&logoColor=white)
-
-
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?&logo=Docker&logoColor=fff)
 ![Jenkins](https://img.shields.io/badge/-jenkins-D24939?&logo=jenkins&logoColor=fff) 
 
