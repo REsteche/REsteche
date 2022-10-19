@@ -67,12 +67,12 @@
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-%23BB001B.svg?&style=for-the-badge&logo=Gmail&logoColor=white" />
   </a>
   <a href="https://resteche.github.io/">
-    <img alt="Git WebPage" src="https://img.shields.io/badge/Git WebPage-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
+    <img alt="Git Pages" src="https://img.shields.io/badge/Git WebPage-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
   </a>
   <a href="https://twitter.com/ruben_esteche">
     <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="nablar#7726">
-    <img alt="Discord" src="https://img.shields.io/badge/discord-%237289da.svg?&style=for-the-badge&logo=discord&logoColor=white" />
+  <a href="https://www.linkedin.com/in/ruben-esteche-araujo-110886251/">
+    <img alt="Linkedin" src="https://img.shields.io/badge/-LinkedIn-0A66C2?&style=for-the-badge&logo=LinkedIn&logoColor=white" />
   </a>
 </p>
