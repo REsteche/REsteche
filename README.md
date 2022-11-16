@@ -30,10 +30,10 @@
 
 ### Toolboxes
 
-![Docker](https://img.shields.io/badge/-Docker-2496ED?&logo=Docker&logoColor=fff)
-![Jenkins](https://img.shields.io/badge/-jenkins-D24939?&logo=jenkins&logoColor=fff) 
+![Docker](https://img.shields.io/badge/-Docker-2496ED?&logo=Docker&logoColor=fff) 
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?&logo=Postman&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?&logo=FastAPI&logoColor=white) 
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?&logo=FastAPI&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-jenkins-D24939?&logo=jenkins&logoColor=fff)
 ![JMeter](https://img.shields.io/badge/-Apache_JMeter-D22128?&logo=ApacheJMeter&logoColor=white) 
 
 ### IDE's/Editors
