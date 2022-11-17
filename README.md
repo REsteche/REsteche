@@ -13,7 +13,8 @@
 
 ![Python](https://img.shields.io/badge/-Python-4B8BBE?&logo=Python&logoColor=fff) 
 ![C](https://img.shields.io/badge/-C-888?&logo=C&logoColor=fff)
-![C++](https://img.shields.io/badge/-C++-00599C?&logo=c%2b%2b) 
+![C++](https://img.shields.io/badge/-C++-00599C?&logo=c%2b%2b)
+![SQL](https://img.shields.io/badge/-SQL-5586A4?&logo=databricks&logoColor=white)
 ![Wolfram](https://img.shields.io/badge/-Wolfram_Language-DD1100?&logo=Wolfram-Language&Color=DD1100)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=Plastic&logo=latex&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-f0db4f?&logo=JavaScript&logoColor=fff)  
@@ -33,6 +34,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?&logo=Docker&logoColor=fff) 
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?&logo=Postman&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?&logo=FastAPI&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?&logo=MySQL&logoColor=fff)
 ![Jenkins](https://img.shields.io/badge/-jenkins-D24939?&logo=jenkins&logoColor=fff)
 ![JMeter](https://img.shields.io/badge/-Apache_JMeter-D22128?&logo=ApacheJMeter&logoColor=white) 
 
