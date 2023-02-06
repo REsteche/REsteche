@@ -24,7 +24,6 @@
 
 ![OpenGL](https://img.shields.io/badge/-OpenGL-5586A4?&logo=OpenGL&logoColor=white)
 ![QuadPy](https://img.shields.io/badge/-quadpy-informational?&logo=PyPI&logoColor=white)
-![QuTip](https://img.shields.io/badge/-QuTip-8CAAE6?&logo=SciPy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-pandas-150458?&logo=pandas&logoColor=white)
 ![SpaCy](https://img.shields.io/badge/-spaCy-09A3D5?&logo=spaCy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?&logo=scikit-learn&logoColor=white)
