@@ -1,6 +1,6 @@
 ### Hi there, 👋
 
-### My name is Ruben Esteche, I'm a bachelor in physics and currently doing a M.Sc in foundations of quantum mechanics. I am also a Data Scientist and Machine Learning researcher at [NTT Data](https://br.nttdata.com/).
+### My name is Ruben Esteche, I'm a bachelor in physics and currently doing a M.Sc in foundations of quantum mechanics. I am also a Data Scientist and Machine Learning developer at [NTT Data](https://br.nttdata.com/).
 ---
 
  - 🔭 I’m currently working with time in quantum mechanics; from a new arrival time distribution to tunneling time numerical modeling. I have also experience in causality relationships of events in quantum mechanics, and theory of information.
