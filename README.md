@@ -1,11 +1,12 @@
 ### Hi there, 👋
 
-### My name is Ruben Esteche, I'm a M.Sc in foundations of quantum mechanics, with a bachelor in physics. I have also a post graduation in Data Scientist and Machine Learning developer working at [NTT Data](https://br.nttdata.com/).
+### My name is Ruben Esteche, I’m a physicist working on data science and natural language processing. I have a particular interest in the application of statistical data analysis to uncover linguistics patterns permeating large language models. I’m currently working at [NTT Data](https://br.nttdata.com/) in a project that uses several NLP techniques linked to LLM’s in a transformers architecture to compose a chatbot creation platform for companies around the world. 
+
 ---
 
- - 🔭 My academic work is with time in quantum mechanics; from a new arrival time distribution to tunneling time numerical modeling. I have also experience in causality relationships of events in quantum mechanics, and theory of information.
+ - 🔭 I have an academic work with time in quantum mechanics; from a new arrival time distribution to tunneling time numerical modeling. I have also experience in causality relationships of events in quantum mechanics, and theory of information.
  - 🔎 I’m always looking to collaborate with other researchers and expand my networking, as well as learn as much as possible on various topics.
- - 🖥️ I have a full time job with Data Science and Natural Language Processing models, which involves several topics of programming like webscrapping, machine learning engineering and software development of APIs.
+ - 🖥️ My job as a Data Scientist involves several topics of programming like webscrapping, machine learning engineering and software development of APIs, and I deal with it through various dataOps frameworks.  
  
 
 ---
