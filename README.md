@@ -1,6 +1,6 @@
 ### Hi there, 👋
 
-### My name is Ruben Esteche, I’m a physicist working on data science and natural language processing. I’m currently working at [NTT Data](https://br.nttdata.com/) in a project that uses several NLP techniques linked to LLM’s in a transformers architecture to compose a chatbot creation platform for companies around the world. 
+### My name is Ruben Esteche, I’m a physicist working with data science and natural language processing. I’m currently working at [NTT Data](https://br.nttdata.com/) in a project that uses several NLP techniques linked to LLM’s in a transformers architecture to compose a chatbot creation platform for companies around the world. 
 
 ---
 
