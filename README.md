@@ -25,7 +25,7 @@
 ### Libraries
 
 ![OpenGL](https://img.shields.io/badge/-OpenGL-5586A4?&logo=OpenGL&logoColor=white)
-![QuadPy](https://img.shields.io/badge/-quadpy-informational?&logo=PyPI&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?&logo=FastAPI&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-pandas-150458?&logo=pandas&logoColor=white)
 ![SpaCy](https://img.shields.io/badge/-spaCy-09A3D5?&logo=spaCy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?&logo=scikit-learn&logoColor=white)
@@ -34,11 +34,11 @@
 
 
 
-### Toolboxes
+### Toolbox
 
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?&logo=Docker&logoColor=fff) 
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?&logo=Kubernetes&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?&logo=Postman&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?&logo=FastAPI&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?&logo=MySQL&logoColor=fff)
 ![mongoDB](https://img.shields.io/badge/-MongoDB-47A248?&logo=MongoDB&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/-jenkins-D24939?&logo=jenkins&logoColor=fff)
