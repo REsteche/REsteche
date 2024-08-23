@@ -24,13 +24,14 @@
 
 ### Libraries
 
-![OpenGL](https://img.shields.io/badge/-OpenGL-5586A4?&logo=OpenGL&logoColor=white)
+![Langchain](https://img.shields.io/badge/-LangChain-1C3C3C?&logo=langchain&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?&logo=FastAPI&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-pandas-150458?&logo=pandas&logoColor=white)
 ![SpaCy](https://img.shields.io/badge/-spaCy-09A3D5?&logo=spaCy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?&logo=scikit-learn&logoColor=white)
 ![Pytorch](https://img.shields.io/badge/-Pytorch-EE4C2C?&logo=Pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?&logo=TensorFlow&logoColor=white)
+![OpenGL](https://img.shields.io/badge/-OpenGL-5586A4?&logo=OpenGL&logoColor=white)
 
 
 
