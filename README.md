@@ -2,7 +2,7 @@
 
 ### My name is Ruben Esteche, I’m a physicist working with data science and natural language processing. 
 
-I’m currently working at [Bosch](https://www.bosch.com.br/) developing advanced AI-driven conversational systems, optimizing cloud infrastructures, and implementing CI/CD practices to ensure scalability and reduce development times. My diverse experience spans building end-to-end machine learning solutions, integrating MLOps practices, and backend development, enabling me to deliver robust and innovative AI solutions.
+I’m currently working developing advanced AI-driven conversational systems, optimizing cloud infrastructures, and implementing CI/CD practices to ensure scalability and reduce development times. My diverse experience spans building end-to-end machine learning solutions, integrating MLOps practices, and backend development, enabling me to deliver robust and innovative AI solutions.
 
 ---
 
