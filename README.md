@@ -20,8 +20,7 @@ I’m currently working developing advanced AI-driven conversational systems, op
 ![C++](https://img.shields.io/badge/-C++-00599C?&logo=c%2b%2b)
 ![SQL](https://img.shields.io/badge/-SQL-5586A4?&logo=databricks&logoColor=white)
 ![Wolfram](https://img.shields.io/badge/-Wolfram_Language-DD1100?&logo=Wolfram-Language&Color=DD1100)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=Plastic&logo=latex&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-f0db4f?&logo=JavaScript&logoColor=fff)  
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=Plastic&logo=latex&logoColor=white) 
 
 
 ### Libraries
