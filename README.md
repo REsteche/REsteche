@@ -7,9 +7,8 @@ I’m currently working developing advanced AI-driven conversational systems, op
 ---
 
  - 🔭 I have academic work in phisycs - from quantum mechanics to theory of complex systems; my master was about a new arrival time distribution and tunneling time numerical modeling. I have also experience in causality relationships of events in quantum mechanics, and theory of information with complex systems.
- - 🔎 I’m always looking to collaborate with other researchers and expand my networking, as well as learn as much as possible on various topics.
- - 🖥️ My job as a Data Scientist involves several topics of programming like webscrapping, machine learning engineering and software development of APIs, and I deal with it through various dataOps frameworks.
- - 📖 I have a particular interest in the application of statistical data analysis to uncover linguistics patterns permeating large language models
+ - 🔎 I’m always looking to collaborate with other researchers and expand my network, as well as learn as much as possible on various topics. Personally consider myself a lifetime learner! I have a particular interest in the application of statistical data analysis to uncover linguistics patterns permeating large language models
+ - 🖥️ My job as a Data Scientist involves several topics of programming like webscrapping, machine learning engineering and software development of APIs, and I deal with it through various dataOps and MlOps frameworks as well.
  
 
 ---
